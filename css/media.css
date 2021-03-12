@@ -1,0 +1,130 @@
+@media screen and (max-width: 992px) {
+	.main{
+		text-align: center;
+	}
+	.name{
+		font-size: 42px;
+	}
+	.steps-title{
+		margin-top: 25px;
+	}
+	.steps-text{
+		margin-bottom: 50px;
+	}
+	.skidka-title{
+		font-size: 32px;
+		margin-top: 10px;
+	}
+	.callback{
+		width: 100%;
+	}
+	.live-contact{
+		text-align: center;
+	}
+	.footer-logo{
+		width: 80%;
+	}
+	.copyright{
+		font-size: 18px;
+		text-align: center;
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.desktop{
+		display: none;
+	}
+	.adaptive{
+		display: inline-block;
+	}
+	.about_img{
+		margin-bottom: 25px;
+	}
+	.about_me{
+		text-align: justify;
+	}
+	.TITLE{
+		font-size: 46px;
+	}
+	.services-card{
+		height: auto;
+		padding-bottom: 25px;
+	}
+	.callback{
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 25px;
+	}
+	.skidka-img{
+		width: 50%;
+	}
+	.btn-info{
+		margin-bottom: 25px;
+	}
+	.footer-logo{
+		width: 50%;
+		margin-bottom: 25px;
+	}
+	.footer{
+		text-align: center;
+	}
+	.navbar-nav{
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.navbar-brand{
+		width: 75%;
+	}
+	.navbar-brand img{
+		width: 90%;
+	}
+	.callback{
+		width: 100%;
+	}
+	.TITLE{
+		font-size: 32px;
+	}
+	.name{
+		font-size: 36px;
+	}
+	.skill-title{
+		font-size: 26px;
+	}
+	.live-contact h1{
+		font-size: 26px;
+	}
+	.about_me{
+		text-align: left;
+	}
+}
+
+@media screen and (max-width: 337px) {
+	.navbar-brand{
+		width: 60%;
+	}
+	.navbar-brand img{
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 1400px) {
+	.back-shapes img {
+		width: 3%;
+	}
+}
+
+@media screen and (max-width: 1000px) {
+	.back-shapes img {
+		width: 4%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.back-shapes img {
+		width: 5%;
+	}
+}
